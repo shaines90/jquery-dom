@@ -1,10 +1,10 @@
 {
   "version": 3,
   "file": "main.js",
-  "sourceRoot": "",
+  "sourceRoot": "..",
   "sources": [
-    "main.coffee"
+    "js/main.coffee"
   ],
   "names": [],
-  "mappings": ";AAAA;AAAA;AAAA"
+  "mappings": ";AAAA;AAAA,MAAA,CAAA;;AAAA,EAAA,CAAA,CAAE,eAAF,CAAkB,CAAC,KAAnB,CAAyB,SAAA,GAAA;WACvB,CAAA,CAAE,MAAF,CAAS,CAAC,MAAV,CAAiB,MAAjB,EADuB;EAAA,CAAzB,CAAA,CAAA;;AAAA,EAGA,CAAA,GAAI,CAHJ,CAAA;;AAAA,EAIA,CAAA,CAAE,QAAF,CAAW,CAAC,KAAZ,CAAkB,SAAA,GAAA;AAChB,IAAA,CAAA,GAAI,CAAA,GAAE,CAAN,CAAA;WACA,CAAA,CAAE,UAAF,CAAa,CAAC,IAAd,CAAmB,CAAnB,EAFgB;EAAA,CAAlB,CAJA,CAAA;AAAA"
 }
