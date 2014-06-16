@@ -2,8 +2,10 @@
 (function() {
   var n;
 
+  $('#boo').hide("image");
+
   $('#bewareButton').click(function() {
-    return $('#boo').append("Boo!");
+    return $('#boo').toggle("image")([duration(400)]);
   });
 
   n = 1;
@@ -11,6 +13,10 @@
   $('#trick').click(function() {
     n = n + 1;
     return $('#counter').html(n);
+  });
+
+  $('#reset').click(function() {
+    return $('#counter').html(1);
   });
 
 }).call(this);
